@@ -15,3 +15,5 @@ pip install --index-url https://test.pypi.org/simple/ dsnd-probability
 twine upload dist/*
 pip install dsnd-probability
 ```
+
+# [tutorial on distributing packages](https://packaging.python.org/tutorials/packaging-projects/)
