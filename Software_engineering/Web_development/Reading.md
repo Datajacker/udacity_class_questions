@@ -1,5 +1,7 @@
 # Reading
 * [W3Schools HTML Tags](https://www.w3schools.com/tags/default.asp)
+* [A brief history of CSS until 2016](https://www.w3.org/Style/CSS20/history.html)
+* [What Is a User Style Sheet?](https://www.lifewire.com/user-style-sheet-3469931)
 
 # General format
 ## HTML
