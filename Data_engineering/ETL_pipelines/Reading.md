@@ -4,6 +4,8 @@
 * [10 minute Intro to Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 * [Pandas Basic Functionality](https://pandas.pydata.org/pandas-docs/stable/user_guide/basics.html)
 
+* [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
+
 ## Outliers
 ### How to find them
 * [scikit-learn Novelty and Outlier Detection](https://scikit-learn.org/stable/modules/outlier_detection.html)
