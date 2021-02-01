@@ -6,6 +6,8 @@
 
 * [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
 
+* [generator](https://wiki.python.org/moin/Generators)
+
 ## Outliers
 ### How to find them
 * [scikit-learn Novelty and Outlier Detection](https://scikit-learn.org/stable/modules/outlier_detection.html)
