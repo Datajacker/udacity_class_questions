@@ -8,6 +8,7 @@ Here you will learn about what it means to run an experiment, and how this diffe
 
 ## II. Statistical Considerations in Testing
 In this lesson, you will learn about statistical techniques and considerations used when evaluating the data collected during an experiment. It is expected that you come into the course with knowledge about inferential statistics; the content here will see you applying that knowledge in different ways.
+* [How Not To Run an A/B Test](https://www.evanmiller.org/how-not-to-run-an-ab-test.html)
 
 ## III. A/B Testing Case Study
 Here, you will put your skills to work to analyze data related to a change on a web page designed to increase purchasers of software.
