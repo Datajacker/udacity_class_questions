@@ -7,6 +7,10 @@ This repository includes all the questions I have encountered while working on t
 * [Python Logging](https://realpython.com/python-logging-source-code/#package-architecture-loggings-mro)
 * [OrderedDict vs dict in Python](https://realpython.com/python-ordereddict/)
 
+# Latex coding book
+* [LaTeX Cookbook](http://www.personal.ceu.hu/tex/cookbook.html#spaceinform)
+* [LaTeX Cheatsheet](https://www.authorea.com/users/77723/articles/110898-how-to-write-mathematical-equations-expressions-and-symbols-with-latex-a-cheatsheet)
+
 # **Machine Learning Model**
 * [Gradient boosting decision tree](https://xgboost.readthedocs.io/en/latest/)
   * Can handle missing values: [What are the ways of treatng missing values in XGboost?](https://github.com/dmlc/xgboost/issues/21)
