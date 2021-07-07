@@ -6,6 +6,7 @@ This repository includes all the questions I have encountered while working on t
 * [Python Exceptions](https://realpython.com/python-exceptions/)
 * [Python Logging](https://realpython.com/python-logging-source-code/#package-architecture-loggings-mro)
 * [OrderedDict vs dict in Python](https://realpython.com/python-ordereddict/)
+* [Python __main__ function](https://realpython.com/python-main-function/)
 
 # Latex coding book
 * [LaTeX Cookbook](http://www.personal.ceu.hu/tex/cookbook.html#spaceinform)
